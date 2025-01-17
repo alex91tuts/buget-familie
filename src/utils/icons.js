@@ -1,0 +1,60 @@
+import {
+  RiHomeLine,
+  RiWalletLine,
+  RiShoppingCartLine,
+  RiCarLine,
+  RiRestaurantLine,
+  RiHeartLine,
+  RiGamepadLine,
+  RiMovieLine,
+  RiBookLine,
+  RiPlaneLine,
+  RiHotelLine,
+  RiBillLine,
+  RiShoppingBagLine,
+  RiMedicineBottleLine,
+  RiTShirtLine,
+  RiGiftLine,
+  RiPhoneLine,
+  RiWifiLine,
+  RiTvLine,
+  RiGasStationLine,
+  RiScalesLine,
+  RiBarChartLine,
+  RiMoneyDollarCircleLine,
+  RiAddLine,
+  RiQuestionLine
+} from 'react-icons/ri';
+
+export const commonIcons = {
+  RiHomeLine,
+  RiWalletLine,
+  RiShoppingCartLine,
+  RiCarLine,
+  RiRestaurantLine,
+  RiHeartLine,
+  RiGamepadLine,
+  RiMovieLine,
+  RiBookLine,
+  RiPlaneLine,
+  RiHotelLine,
+  RiBillLine,
+  RiShoppingBagLine,
+  RiMedicineBottleLine,
+  RiTShirtLine,
+  RiGiftLine,
+  RiPhoneLine,
+  RiWifiLine,
+  RiTvLine,
+  RiGasStationLine,
+  RiScalesLine,
+  RiBarChartLine,
+  RiMoneyDollarCircleLine,
+  RiAddLine,
+  RiQuestionLine
+};
+
+export const iconOptions = Object.entries(commonIcons).map(([name, Icon]) => ({
+  name,
+  Icon
+}));
