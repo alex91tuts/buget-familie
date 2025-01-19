@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/buget-familie/static/css/main.b2a7aa40.css",
-    "main.js": "/buget-familie/static/js/main.fd650454.js",
+    "main.css": "/buget-familie/static/css/main.a8d61b13.css",
+    "main.js": "/buget-familie/static/js/main.02444620.js",
     "static/js/952.72c07c56.chunk.js": "/buget-familie/static/js/952.72c07c56.chunk.js",
     "static/js/488.5c6e67a9.chunk.js": "/buget-familie/static/js/488.5c6e67a9.chunk.js",
     "index.html": "/buget-familie/index.html",
-    "main.b2a7aa40.css.map": "/buget-familie/static/css/main.b2a7aa40.css.map",
-    "main.fd650454.js.map": "/buget-familie/static/js/main.fd650454.js.map",
+    "main.a8d61b13.css.map": "/buget-familie/static/css/main.a8d61b13.css.map",
+    "main.02444620.js.map": "/buget-familie/static/js/main.02444620.js.map",
     "952.72c07c56.chunk.js.map": "/buget-familie/static/js/952.72c07c56.chunk.js.map",
     "488.5c6e67a9.chunk.js.map": "/buget-familie/static/js/488.5c6e67a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2a7aa40.css",
-    "static/js/main.fd650454.js"
+    "static/css/main.a8d61b13.css",
+    "static/js/main.02444620.js"
   ]
 }
